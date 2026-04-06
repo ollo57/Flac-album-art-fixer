@@ -6,6 +6,7 @@ This project processes `.flac` files from the `music` folder, copies them into t
 
 Some players and devices are picky about embedded album art. This script keeps the audio file the same, but updates the embedded images so they are saved as baseline JPEG instead of progressive JPEG.
 
+I made this with love for my sweet boy https://github.com/TheLalilulelo
 ## Project Structure
 
 - `main.py`: the script that performs the conversion
